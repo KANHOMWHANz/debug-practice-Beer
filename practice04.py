@@ -2,5 +2,5 @@
 price = 50
 total = 0
 for i in range(3):
-    total = price
+    total = price*(i+1)
 print("Total price:", total)

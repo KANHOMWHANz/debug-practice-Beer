@@ -2,6 +2,6 @@
 score = 70
 if score >= 50:
     if score >= 80:
-        print("Grade A")
-    else:
         print("Grade F")
+    else:
+        print("Grade A")

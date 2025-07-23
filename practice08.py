@@ -2,5 +2,5 @@
 for i in range(3):
     print("Loop", i)
     if i == 1:
+        print("Done!")
         break
-    print("Done!")
